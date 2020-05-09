@@ -23,3 +23,6 @@ ridgeline and it is shown by green line in the output image.
 ![output_simple.jpg](sample_output/output_simple2.jpg)
 ![output_human.jpg](sample_output/output_human2.jpg)
 ![output_map.jpg](sample_output/output_map2.jpg)
+
+
+Done by: Aneri Shah, Dhruva Bhavsar, Hely Modi.
